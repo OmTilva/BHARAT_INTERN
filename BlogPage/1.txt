@@ -1,7 +1,0 @@
-user post likh payenge
-
-login and register(users create karne hai)
-logout
-post creation
-post like
-post delete(only accessible to the creator of the post not viewers)
